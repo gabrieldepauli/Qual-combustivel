@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">¿Qué Combustible?</string>
+    <string name="answer_ethanol">Abastezca con etanol.</string>
+    <string name="answer_gas">Abastezca con gasolina.</string>
+    <string name="message_gas">Precio por litro de gasolina:</string>
+    <string name="message_ethanol">Precio por litro de etanol:</string>
+    <string name="button_text">¿Cuál es la mejor opción?</string>
+    <string name="message_hint_text">Introduzca el valor</string>
+</resources>
